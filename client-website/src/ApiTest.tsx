@@ -18,7 +18,7 @@ function ApiTest() {
         setError(null);
         
         try {
-            const response = await fetch('https://14a287a209d3.ngrok-free.app/test', {
+            const response = await fetch('https://shrimp-improved-frequently.ngrok-free.app/test', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
